@@ -1,2 +1,2 @@
 # python-challenge
-This is my repository for Module 2 Challenge.
+This is my repository for the Module 2 Challenge.
